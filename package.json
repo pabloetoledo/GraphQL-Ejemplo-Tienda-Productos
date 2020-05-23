@@ -1,0 +1,22 @@
+{
+  "name": "crm-graphql",
+  "version": "1.0.0",
+  "description": "Curso de Graphql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Pablo Toledo",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.13.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
